@@ -34,4 +34,6 @@ public class TheArrayProblem
         newArray[length] = product;
         return newArray;
     }
+
+
 }
